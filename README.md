@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Fede👋</h1>
 </div>
 
-<img src="banner.png">
+<img src="banner.png" style="display: block; margin: 0 auto;">
 
 ## Sobre mi
 
