@@ -2,6 +2,8 @@
 <h1 align="center">Hola, soy Fede👋</h1>
 </div>
 
+<img src="banner.png">
+
 ## Sobre mi
 
 - ⭐ Analista de datos JR ⭐
