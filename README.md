@@ -46,7 +46,7 @@
 <h3 align="center">💸 Dashboard Billetera 2024</h3>
 <div align="center">
 <a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
-<img src="[https://raw.githubusercontent.com/Fede1808/Dashboard_Billetera2024/main/PRESUPUESTO%20Y%20GASTOS%20MENSUALES%202024.png](https://imgur.com/a/h2IWsy3)" width="400" alt="Dashboard Presupuesto">
+<img src="https://imgur.com/a/h2IWsy3" width="400" alt="Dashboard Presupuesto">
 </a>
 <p>
 <a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
