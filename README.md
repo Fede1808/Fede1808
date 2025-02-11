@@ -9,6 +9,16 @@
 - 📲 Apasionado por el mundo IT
 <br>
 
+## Education
+- Ingenieria en Sistemas | Universidad Tecnologica Nacional | 2019-2024 
+- Ingenieria en Software | Universidad Siglo 21 | 2024-Present 
+
+## Courses
+- SQL, Python & ChatGPT for Data Analysis | UDEMY | 2024
+- Redes neuronales con Python | FAMAF | 2023
+- Curso Avanzado de JavaScript | Coderhouse | 2022
+
+
 ## Proyectos *bombitas*
 <table>
 <tr>
