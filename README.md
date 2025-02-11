@@ -46,7 +46,7 @@
 <div align="center">
 <a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
 <!-- URL DIRECTA (ejemplo) -->
-<img src="https://i.imgur.com/2WX4O9L.png" width="400" alt="Dashboard Presupuesto">
+<img src="Ejercicio Billetera 2024.jpg" width="400" alt="Dashboard Presupuesto">
 </a>
 <p>
 <a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
