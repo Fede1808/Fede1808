@@ -41,13 +41,12 @@
 
 ## 📊 Proyectos 
 <table>
-<tr>
 <td width="50%">
 <h3 align="center">💸 Dashboard Billetera 2024</h3>
 <div align="center">
 <a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
-<!-- Reemplaza con TU URL de Imgur -->
-<img src="https://imgur.com/a/h2IWsy3" width="400" alt="Dashboard Presupuesto">
+<!-- URL DIRECTA (ejemplo) -->
+<img src="https://i.imgur.com/2WX4O9L.png" width="400" alt="Dashboard Presupuesto">
 </a>
 <p>
 <a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
