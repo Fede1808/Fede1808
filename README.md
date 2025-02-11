@@ -2,9 +2,9 @@
 <h1 align="center">Hola, soy Fede👋</h1>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<p align="center">
   <img src="banner.png">
-</div>
+</p>
 
 ## Sobre mi
 
