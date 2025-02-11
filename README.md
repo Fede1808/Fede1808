@@ -46,6 +46,7 @@
 <h3 align="center">💸 Dashboard Billetera 2024</h3>
 <div align="center">
 <a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
+<!-- Reemplaza con TU URL de Imgur -->
 <img src="https://imgur.com/a/h2IWsy3" width="400" alt="Dashboard Presupuesto">
 </a>
 <p>
@@ -53,17 +54,31 @@
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/Fede1808/Dashboard_Billetera2024/raw/main/PRESUPUESTO%20Y%20GASTOS%20MENSUALES%202024.pdf" target="_blank">
-<img src="https://img.shields.io/badge/REPORTE_PDF-blue?style=for-the-badge&color=4D91E6&logo=adobeacrobatreader">
+<img src="https://img.shields.io/badge/VER_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&color=2B60DE">
 </a>
 </p>
-<p>📉 Sistema de gestión de presupuesto personal 
-<br>🛠️ <strong>Tecnologías:</strong> Excel, Python, Pandas 
-<br>✨ Automatización de reportes, gráficos dinámicos, análisis de tendencias</p>
+<p>📊 Sistema de gestión financiera personalizada<br>
+🛠️ <strong>Tecnologías:</strong> Excel, Python, Pandas<br>
+✨ Visualización interactiva, reportes automatizados</p>
 </div>                                                                                      
 </td>
 
 <td width="50%">
-<!-- ¡Agrega tu segundo proyecto aquí! -->
+<h3 align="center">⚽ FIFA Dashboard (ejemplo)</h3>
+<div align="center">                                       
+<a href="[Enlace-GitHub-FIFA]" target="_blank">
+<!-- Reemplaza con TU URL de Imgur -->
+<img src="https://i.imgur.com/tu-imagen-2.jpg" width="400" alt="Dashboard FIFA">
+</a>
+<p>
+<a href="[Enlace-GitHub-FIFA]" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>📈 Análisis avanzado de jugadores FIFA<br>
+🛠️ <strong>Tecnologías:</strong> Power BI, Python<br>
+✨ Filtros dinámicos, comparativas tácticas</p>
+</div>                                                             
 </td>
 </tr>
 </table>
