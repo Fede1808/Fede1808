@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <p>📈 <strong>Análisis financiero personal 2024</strong><br>
-🛠️ Tecnologías: <em>Power BI, DAX, Excel</em><br>
+🛠️ Tecnologías: <em>Power BI, DAX</em><br>
 </div>                                                                                      
 </td>
 
@@ -69,9 +69,8 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>📈 Análisis avanzado de jugadores FIFA<br>
-🛠️ <strong>Tecnologías:</strong> Power BI, Python<br>
-✨ Filtros dinámicos, comparativas tácticas</p>
+<p>📈 Comparativa entre La Liga y Premier League en FIFA 25<br>
+🛠️ <strong>Tecnologías:</strong> Power BI,DAX <br>
 </div>                                                             
 </td>
 </tr>
