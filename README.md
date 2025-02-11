@@ -21,14 +21,22 @@
     </p>
 </div>
 
-## Education
-- Ingenieria en Sistemas | Universidad Tecnologica Nacional | 2019-2024 
-- Ingenieria en Software | Universidad Siglo 21 | 2024-Present 
+<div class="emoji-section">
+    <h2>🎓 Education</h2>
+    <ul>
+        <li>🏛️ <strong>Systems Engineering</strong> | Universidad Tecnológica Nacional | 2019–2024</li>
+        <li>💻 <strong>Software Engineering</strong> | Universidad Siglo 21 | 2024–Present</li>
+    </ul>
+</div>
 
-## Courses
-- SQL, Python & ChatGPT for Data Analysis | UDEMY | 2024
-- Redes neuronales con Python | FAMAF | 2023
-- Curso Avanzado de JavaScript | Coderhouse | 2022
+<div class="emoji-section" style="margin-top: 30px;">
+    <h2>📚 Courses & Certifications</h2>
+    <ul>
+        <li>📊 <strong>SQL, Python & ChatGPT for Data Analysis</strong> | UDEMY | 2024</li>
+        <li>🧠 <strong>Neural Networks with Python</strong> | FAMAF | 2023</li>
+        <li>🚀 <strong>Advanced JavaScript Course</strong> | Coderhouse | 2022</li>
+    </ul>
+</div>
 
 
 ## Proyectos *bombitas*
