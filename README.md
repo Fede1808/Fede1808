@@ -52,13 +52,12 @@
 <a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/Fede1808/Dashboard_Billetera2024/raw/main/PRESUPUESTO%20Y%20GASTOS%20MENSUALES%202024.pdf" target="_blank">
-<img src="https://img.shields.io/badge/VER_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&color=2B60DE">
-</a>
-</p>
-<p>📊 Sistema de gestión financiera personalizada<br>
-🛠️ <strong>Tecnologías:</strong> Excel, Python, Pandas<br>
-✨ Visualización interactiva, reportes automatizados</p>
+<p>📈 <strong>Análisis financiero personal 2024</strong><br>
+🛠️ Tecnologías: <em>Power BI, DAX, Excel</em><br>
+✨ <strong>Destaca:</strong><br>
+- 4,940 transacciones analizadas<br>
+- Alertas de presupuesto excedido<br>
+- Comparativas mensuales interactivas</p>
 </div>                                                                                      
 </td>
 
