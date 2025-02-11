@@ -39,43 +39,47 @@
 </div>
 
 
-## Proyectos *bombitas*
+## 📊 Proyectos 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">⚽ FIFA Player Dashboard</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="[Enlace-GitHub-FIFA]" target="_blank">
+<img src="[URL-Imagen-FIFA]" width="400" alt="Dashboard FIFA">
+</a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="[Enlace-GitHub-FIFA]" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="[Enlace-Demo-FIFA]" target="_blank">
+<img src="https://img.shields.io/badge/DEMO-green?style=for-the-badge&color=3fFD7f&logo=powerbi">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+<p>📈 Dashboard interactivo para análisis de jugadores FIFA 
+<br>🛠️ <strong>Tecnologías:</strong> Python, Power BI, Pandas
+<br>✨ Filtros dinámicos, comparativas entre jugadores, heatmaps</p>
+</div>                                                                                      
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">💸 Budget Tracker</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="[Enlace-GitHub-Presupuesto]" target="_blank">
+<img src="[URL-Imagen-Presupuesto]" width="400" alt="Dashboard Presupuesto">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<p>
+<a href="[Enlace-GitHub-Presupuesto]" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="[Enlace-Demo-Presupuesto]" target="_blank">
+<img src="https://img.shields.io/badge/REPORTE-blue?style=for-the-badge&color=4D91E6&logo=excel">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p>📉 Sistema de seguimiento de gastos e ingresos 
+<br>🛠️ <strong>Tecnologías:</strong> Excel, Python, Openpyxl 
+<br>✨ Automatización de reportes, gráficos mensuales, alertas</p>
 </div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
+</td>
+</tr>
+</table>
