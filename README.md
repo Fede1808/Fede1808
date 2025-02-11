@@ -54,10 +54,6 @@
 </a>
 <p>📈 <strong>Análisis financiero personal 2024</strong><br>
 🛠️ Tecnologías: <em>Power BI, DAX, Excel</em><br>
-✨ <strong>Destaca:</strong><br>
-- 4,940 transacciones analizadas<br>
-- Alertas de presupuesto excedido<br>
-- Comparativas mensuales interactivas</p>
 </div>                                                                                      
 </td>
 
