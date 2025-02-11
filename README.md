@@ -9,20 +9,18 @@
 <div class="emoji-section">
         <h2>🌟 About Me</h2>
         <ul>
-            <li class="highlight">🚀 Junior Data Analyst | <em>Transforming raw data into actionable insights</em></li>
-            <li class="highlight">📚 High School CS Teacher | <em>Mentoring future tech innovators</em></li>
-            <li class="highlight">💡 IT Enthusiast | <em>Building solutions with Python & SQL</em></li>
+            <li class="highlight">🚀 Junior Data Analyst 
+            <li class="highlight">📚 High School CS Teacher 
+            <li class="highlight">💡 IT Enthusiast 
         </ul>
     </div>
-
-    <!-- Suggested: Technical Skills -->
-    <div class="emoji-section" style="margin-top: 30px;">
-        <h2>🛠️ Tech Toolkit</h2>
-        <p>
-            🐍 Python | 📊 Power BI | 🔍 SQL<br>
-            🧮 Excel | 🌐 HTML/CSS | 📈 Tableau
-        </p>
-    </div>
+   <div class="emoji-section" style="margin-top: 30px;">
+    <h2>🛠️ Tech Toolkit</h2>
+    <p>
+        🐍 Python | 📊 Power BI | 🗄️ SQL<br>
+        📑 Excel | 🐼 Pandas | 📉 Matplotlib
+    </p>
+</div>
 
 ## Education
 - Ingenieria en Sistemas | Universidad Tecnologica Nacional | 2019-2024 
