@@ -17,8 +17,7 @@
    <div class="emoji-section" style="margin-top: 30px;">
     <h2>🛠️ Tech Toolkit</h2>
     <p>
-        🐍 Python | 📊 Power BI | 🗄️ SQL<br>
-        📑 Excel | 🐼 Pandas | 📉 Matplotlib
+        🐍 Python | 📊 Power BI | 🗄️ SQL  📑 Excel | 🐼 Pandas | 📉 Matplotlib
     </p>
 </div>
 
