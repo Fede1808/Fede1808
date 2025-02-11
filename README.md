@@ -62,7 +62,7 @@
 <div align="center">                                       
 <a href="https://github.com/Fede1808/Dashboard_FIFA25"_blank">
 <!-- Reemplaza con TU URL de Imgur -->
-<img src="https://i.imgur.com/tu-imagen-2.jpg" width="400" alt="Dashboard FIFA">
+<img src="Dashboard FIFA 25-imágenes-0.jpg" width="400" alt="Dashboard FIFA">
 </a>
 <p>
 <a href="[Enlace-GitHub-FIFA]" target="_blank">
