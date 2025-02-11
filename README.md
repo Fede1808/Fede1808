@@ -66,7 +66,7 @@
 <h3 align="center">💸 Budget Tracker</h3>
 <div align="center">                                       
 <a href="[Enlace-GitHub-Presupuesto]" target="_blank">
-<img src="Ejercicio Billetera 2024 (1).pdf" width="400" alt="Dashboard Presupuesto">
+<img src="https://github.com/Fede1808/Fede1808/blob/main/README.md" width="400" alt="Dashboard Presupuesto">
 </a>
 <p>
 <a href="[Enlace-GitHub-Presupuesto]" target="_blank">
