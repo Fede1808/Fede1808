@@ -57,27 +57,10 @@
 </div>                                                                                      
 </td>
 
-## 📊 Proyectos 
-<table>
 <td width="50%">
 <h3 align="center">⚽ Dashboard FIFA 25</h3>
-<div align="center">
-<a href="https://github.com/Fede1808/Dashboard_FIFA25" target="_blank">
-<img src="Ejercicio Billetera 2024.jpg" width="400" alt="Dashboard Presupuesto">
-</a>
-<p>
-<a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<p>📈 <strong>Análisis financiero personal 2024</strong><br>
-🛠️ Tecnologías: <em>Power BI, DAX, Excel</em><br>
-</div>                                                                                      
-</td>
-
-<td width="50%">
-<h3 align="center">⚽ FIFA Dashboard (ejemplo)</h3>
 <div align="center">                                       
-<a href="[Enlace-GitHub-FIFA]" target="_blank">
+<a href="https://github.com/Fede1808/Dashboard_FIFA25"_blank">
 <!-- Reemplaza con TU URL de Imgur -->
 <img src="https://i.imgur.com/tu-imagen-2.jpg" width="400" alt="Dashboard FIFA">
 </a>
