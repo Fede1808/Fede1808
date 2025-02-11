@@ -43,43 +43,27 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">⚽ FIFA Player Dashboard</h3>
+<h3 align="center">💸 Dashboard Billetera 2024</h3>
 <div align="center">
-<a href="[Enlace-GitHub-FIFA]" target="_blank">
-<img src="[URL-Imagen-FIFA]" width="400" alt="Dashboard FIFA">
+<a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
+<img src="https://raw.githubusercontent.com/Fede1808/Dashboard_Billetera2024/main/PRESUPUESTO%20Y%20GASTOS%20MENSUALES%202024.png" width="400" alt="Dashboard Presupuesto">
 </a>
 <p>
-<a href="[Enlace-GitHub-FIFA]" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Fede1808/Dashboard_Billetera2024" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="[Enlace-Demo-FIFA]" target="_blank">
-<img src="https://img.shields.io/badge/DEMO-green?style=for-the-badge&color=3fFD7f&logo=powerbi">
+<a href="https://github.com/Fede1808/Dashboard_Billetera2024/raw/main/PRESUPUESTO%20Y%20GASTOS%20MENSUALES%202024.pdf" target="_blank">
+<img src="https://img.shields.io/badge/REPORTE_PDF-blue?style=for-the-badge&color=4D91E6&logo=adobeacrobatreader">
 </a>
 </p>
-<p>📈 Dashboard interactivo para análisis de jugadores FIFA 
-<br>🛠️ <strong>Tecnologías:</strong> Python, Power BI, Pandas
-<br>✨ Filtros dinámicos, comparativas entre jugadores, heatmaps</p>
+<p>📉 Sistema de gestión de presupuesto personal 
+<br>🛠️ <strong>Tecnologías:</strong> Excel, Python, Pandas 
+<br>✨ Automatización de reportes, gráficos dinámicos, análisis de tendencias</p>
 </div>                                                                                      
 </td>
 
 <td width="50%">
-<h3 align="center">💸 Budget Tracker</h3>
-<div align="center">                                       
-<a href="[Enlace-GitHub-Presupuesto]" target="_blank">
-<img src="https://github.com/Fede1808/Fede1808/blob/main/README.md" width="400" alt="Dashboard Presupuesto">
-</a>
-<p>
-<a href="[Enlace-GitHub-Presupuesto]" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="[Enlace-Demo-Presupuesto]" target="_blank">
-<img src="https://img.shields.io/badge/REPORTE-blue?style=for-the-badge&color=4D91E6&logo=excel">
-</a>
-</p>
-<p>📉 Sistema de seguimiento de gastos e ingresos 
-<br>🛠️ <strong>Tecnologías:</strong> Excel, Python, Openpyxl 
-<br>✨ Automatización de reportes, gráficos mensuales, alertas</p>
-</div>                                                             
+<!-- ¡Agrega tu segundo proyecto aquí! -->
 </td>
 </tr>
 </table>
