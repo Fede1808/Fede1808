@@ -6,12 +6,23 @@
   <img src="banner.png">
 </p>
 
-## Sobre mi
+<div class="emoji-section">
+        <h2>🌟 About Me</h2>
+        <ul>
+            <li class="highlight">🚀 Junior Data Analyst | <em>Transforming raw data into actionable insights</em></li>
+            <li class="highlight">📚 High School CS Teacher | <em>Mentoring future tech innovators</em></li>
+            <li class="highlight">💡 IT Enthusiast | <em>Building solutions with Python & SQL</em></li>
+        </ul>
+    </div>
 
-- ⭐ Analista de datos JR ⭐
-- 📗 Docente de informática en colegio secundario 
-- 📲 Apasionado por el mundo IT
-<br>
+    <!-- Suggested: Technical Skills -->
+    <div class="emoji-section" style="margin-top: 30px;">
+        <h2>🛠️ Tech Toolkit</h2>
+        <p>
+            🐍 Python | 📊 Power BI | 🔍 SQL<br>
+            🧮 Excel | 🌐 HTML/CSS | 📈 Tableau
+        </p>
+    </div>
 
 ## Education
 - Ingenieria en Sistemas | Universidad Tecnologica Nacional | 2019-2024 
