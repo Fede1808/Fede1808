@@ -65,7 +65,7 @@
 <img src="Dashboard FIFA 25-imágenes-0.jpg" width="400" alt="Dashboard FIFA">
 </a>
 <p>
-<a href="[Enlace-GitHub-FIFA]" target="_blank">
+<a href="https://github.com/Fede1808/Dashboard_FIFA25" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
