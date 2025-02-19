@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Fede👋</h1>
+<h1 align="center">Hey! I'm Fede👋 </h1>
 </div>
 
 <p align="center">
@@ -39,7 +39,7 @@
 </div>
 
 
-## 📊 Proyectos 
+## 📊 Proyects 
 <table>
 <td width="50%">
 <h3 align="center">💸 Dashboard Billetera 2024</h3>
