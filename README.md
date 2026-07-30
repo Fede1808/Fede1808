@@ -63,24 +63,29 @@ Todo el proceso corre solo una vez por semana: descarga los datos, recalcula y p
 
 ## Pregón · producto propio, en marcha
 
-Convertir la app de Azul en algo que se pueda entregar a otras distribuidoras.
+<img src="assets/pregon.png" alt="Pregón — la app de tu distribuidora" width="100%">
 
-Antes, cada cliente nuevo significaba rehacer la aplicación. Ahora se configura en un
-archivo y se entrega en una tarde. Escribí además el método de implementación que
-siguen las distribuidoras para que sus clientes empiecen a usarla.
+Las distribuidoras difunden ofertas a sus clientes por WhatsApp y **pagan por cada
+mensaje enviado.** Pregón les da su propia app: difusiones ilimitadas y chat con sus
+clientes, sin costo por mensaje.
+
+Nació de la app de Azul. Antes, cada cliente nuevo significaba rehacer la aplicación
+entera; ahora se configura en un archivo y se entrega en una tarde. Escribí además el
+método de implementación que siguen las distribuidoras para que sus clientes la
+empiecen a usar.
 
 `React Native` `Expo` `Supabase`
 
 Configuración validada contra schema, credenciales de build separadas por cliente en
 EAS y migraciones versionadas.
 
-> Código privado.
+**[mipregon.com](https://mipregon.com)** · código privado
 
 ---
 
 ## Prode en Familia · en uso
 
-<img src="assets/prode.png" alt="Prode en Familia" width="100%">
+<img src="assets/prode.png" alt="Prode en Familia — el fixture del Mundial 2026" width="100%">
 
 Juego de pronósticos del Mundial 2026. Lo usa mi familia en cada fecha.
 
